@@ -1,5 +1,5 @@
 {
-  "$id": "https://git.domain.env/sample/-/raw/schema/json-back-value-2.json",
+  "$id": "https://raw.githubusercontent.com/altsixe/sample/main/json-back-value-2.json",
   "$schema": "http://json-schema.org/draft/2019-09/schema",
   "type": "object",
   "title": "json-back",
