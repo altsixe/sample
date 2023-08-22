@@ -1,0 +1,14 @@
+{
+  "name": "SampleKey",
+  "namespace": "default",
+  "doc": "Sample Key",
+  "type": "record",
+  "fields":
+  [
+    {
+      "name": "uid",
+      "type": {"type": "string", "logicalType": "uuid"},
+      "doc": "Unique identifier of user"
+    }
+  ]
+}
